@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Nextix Hub",
+	Title = "NEXTIX HUB",
 	Text = "Enabled Hold Block button to Spam!",
 	Duration = 5
 })
